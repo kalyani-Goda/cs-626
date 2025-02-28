@@ -12,6 +12,3 @@ I'm thankful to the course instructor [Prof. Pushpak Bhattacharyya](<https://www
 
 ## Course webpage - [CS626 Link](<https://www.cse.iitb.ac.in/~cs626/2022/>)
 
-## License
-
-This project is licensed under the MIT License - please see the [LICENSE](LICENSE) file for details.
